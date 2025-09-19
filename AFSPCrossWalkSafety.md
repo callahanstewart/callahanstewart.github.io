@@ -1,3 +1,8 @@
+---
+title: AFSP Crosswalk Safety Guide
+permalink: /afspcrosswalksafety/
+---
+
 # 🌟 AFSP Out of the Darkness Walk – Crosswalk Guard Training Guide
 
 ## 1. Purpose
