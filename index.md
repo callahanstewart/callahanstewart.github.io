@@ -2,8 +2,8 @@
 title: Home
 ---
 
-# AFSP Out of the Darkness – Volunteer Resources
+# Resources and Info
 
 Simple GitHub website to host links and documents I want to share.
 
-- [Crosswalk Safety Guide](/afspcrosswalksafety/)
+- [Crosswalk Safety Guide](/AFSPCrossWalkSafety/)
