@@ -1,6 +1,6 @@
 ---
 title: AFSP Crosswalk Safety Guide
-permalink: /afspcrosswalksafety/
+permalink: /AFSPCrossWalkSafety/
 ---
 
 # AFSP Out of the Darkness Walk - Fargo
